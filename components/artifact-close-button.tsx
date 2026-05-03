@@ -22,6 +22,8 @@ function PureArtifactCloseButton() {
         );
       }}
     >
+
+      
       <CrossIcon size={18} />
     </Button>
   );
